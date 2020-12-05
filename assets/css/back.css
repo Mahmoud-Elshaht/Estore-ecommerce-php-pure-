@@ -1,0 +1,163 @@
+/* Start Dashboard  */
+
+.home-stats .stat{
+    background-color: #EEE;
+    /* border:1px solid #CCC; */
+    padding:20px;
+    font-size:15px;
+    color:#fff;
+    border-radius: 15px;
+
+}
+.home-stats .stat span{
+    display:block;
+    font-size:60px;
+}
+.home-stats .st-members{
+    background-color: #3498db;
+}
+.home-stats .st-pending{
+    background-color: #c0392b;
+
+}
+ .home-stats .st-item{
+    background-color: #d35400;
+    
+} 
+ .home-stats .st-coments{
+    background-color: #8e44ad;
+} 
+.latest .edit{
+    padding:5px;
+}
+.latest .activ{
+    padding:5px;
+}
+
+.latest-user {
+    margin-bottom: 10px;
+}
+.latest-user li{
+    padding: 5px 0;
+    overflow:hidden;
+} 
+.footer-padding2{
+    margin-top: 86px;
+}
+
+/* END Dashboard */
+/* <=================================================================================> */
+/* Start Member Page */
+
+.table thead{
+    background-color:#2577fd;
+    color:white;
+    font-size:15;
+    
+}
+
+.edit{
+    background-color: rgb(16, 142, 52);
+    padding: 12px;
+}
+.confirm{
+    background-color: rgba(255, 0, 0, 0.767);
+    padding: 25px;
+}
+.activ{
+    padding: 20px;
+    margin-left: 3px;
+}
+.table .btn-con{
+    padding:0px;
+}
+.manage .btn{
+    padding: 4px;
+    border-radius: 10px;
+
+}
+.msg{
+    display:none;
+    background-color: rgba(20, 197, 34, 0.767);
+    width:40px;
+    border-radius: 50px;
+    float:right;
+    position: relative;
+            top    : 11px;
+            right  : 105px;
+            bottom : 70px;
+            left   : -244px;
+        
+}
+#activat{ 
+    position: relative;
+    top: 2px;
+    right: 49px;
+    bottom: 70px;
+    left: -32px;
+}
+#adMember{
+    position: relative;
+    top: 2px;
+    right: 49px;
+    bottom: 70px;
+    left: -32px;
+}
+
+
+/* END Member Page */
+/* <=============================================================================> */
+/* start categori page */   
+.edit-cog .fas {
+        /* font-weight: 900; */
+        color: #ff003c;
+}
+#details{
+    color: #ff003c;
+}
+
+/* END categori page */  
+/* <=============================================================================> */
+ /* Start cart page */
+ .delete{
+     background-color:red;
+     
+ }
+/* END cart page */  
+/* <=============================================================================> */
+ /* Start items page */
+.msg{
+    
+    position: relative;
+            top: 2px;
+            right: 87px;
+            bottom: 70px;
+            left: 782px;
+}
+#msg{
+    display:none;
+    position: relative;
+            top: 2px;
+            right: 87px;
+            bottom: 70px;
+            left: -782px;
+}
+
+#reset{
+    float:left;
+    color:red;
+    margin-top: 10px;
+}
+
+ /* END items page */  
+/* <=============================================================================> */
+ /* Start single-product page */
+ .eror{
+    display:none;
+    background-color:red;
+ }
+ /* =========================================================================== */
+/* start index page */
+#cogedit{
+    color:red;
+}
